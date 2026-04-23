@@ -206,16 +206,6 @@ O `.env` nunca é commitado — está no `.gitignore`. As variáveis seguem a co
 
 ---
 
-## 💡 Melhorias Futuras
-
-- Particionamento por data/hora nos arquivos Parquet
-- Adição de mais moedas base além do BRL
-- Camada de transformação com dbt
-- Testes de qualidade dos dados
-- CI/CD com GitHub Actions
-
----
-
 ## 👨‍💻 Autor
 
 **Alano Regis Milfont** — Engenheiro de Dados Júnior | Analista de Dados
