@@ -160,20 +160,6 @@ Cada execução gera um arquivo Parquet identificado pelo `load_id` do dlt, gara
 
 ![Read Parquet](img/read_parquet.png)
 
-Exemplo de saída ao ler os arquivos do MinIO:
-
-```
-base_currency  target_currency      rate                  extracted_at
-          BRL              USD  0.200562  2026-04-23 21:35:43+00:00
-          BRL              EUR  0.171337  2026-04-23 21:35:43+00:00
-          BRL              JPY  31.98616  2026-04-23 21:35:43+00:00
-          BRL              GBP  0.148573  2026-04-23 21:35:43+00:00
-          BRL              CAD  0.274180  2026-04-23 21:35:43+00:00
-          BRL              AUD  0.280205  2026-04-23 21:35:43+00:00
-          BRL              MXN  3.478560  2026-04-23 21:35:43+00:00
-
-Total de linhas: 14
-```
 
 ---
 
