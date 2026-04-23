@@ -13,7 +13,9 @@ Construir um pipeline de dados ponta-a-ponta que coleta cotações do Real Brasi
 ## 🏗️ Arquitetura
 
 ```
-FreeCurrency API → dlt (Python) → MinIO (Data Lake) ← Apache Airflow (orquestração)
+FreeCurrency API → Python (dlt) → MinIO (Data Lake)
+                                        ↑
+                              Apache Airflow (orquestração)
 ```
 
 O fluxo completo:
