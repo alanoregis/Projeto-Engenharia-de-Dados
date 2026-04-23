@@ -216,4 +216,4 @@ O `.env` nunca é commitado — está no `.gitignore`. As variáveis seguem a co
 
 ---
 
-> *Projeto desenvolvido como parte da Semana de Engenharia de Dados para Iniciantes — Apoena Stack.*
+> *Projeto desenvolvido como prática de Engenharia de Dados com Python, Docker e Airflow *
